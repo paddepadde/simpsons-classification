@@ -1,6 +1,6 @@
 # Simpsons Classifier
 
-Training a deep conv. neural networks to recognize characters from the classic TV show _The Simpsons_. This a simple toy example for a multiclass classification problem. 
+Training a deep conv. neural network to recognize characters from the classic TV show _The Simpsons_. This a simple toy example for a multiclass classification problem written in Python and PyTorch. 
 
 ## Training Data
 
